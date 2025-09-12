@@ -1,6 +1,6 @@
 ---
-title: "Clase 4 de Métodos Numéricos"
-author: "Diana Laura Pais Felipe"
+title: "Métodos Numéricos"
+author: "Vera Pulido Donovan Michel "
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
